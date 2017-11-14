@@ -17,12 +17,30 @@ body{
 
 
 /* About Section CSS */
-
-
+#top{
+    height:300px;
+    background:linear-gradient(to bottom right,#cf27f5, #ff61ba,#ff6038,#ffa04d); 
+    background-size:100%;
+    height:100%;
+    background-attachment:fixed;
+    
+}
+#picture{
+    border-radius:100px;
+    height:200px;
+    width:200px;
+    background-color:black;
+    margin:auto;
+}
 
 /* Portfolio Item CSS */
 .project{
     background-color:#f282ba;
+    height:75px;
+    
+}
+#project1{
+    background-image:url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjjj9rIlb_XAhXh7IMKHVo4CDgQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPotato&psig=AOvVaw1AbBAcbk91d4KS-U8Fzrr6&ust=1510786800447269);
 }
 
 
