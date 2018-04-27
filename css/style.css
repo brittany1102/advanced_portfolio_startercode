@@ -1,53 +1,54 @@
-body{
-    background:linear-gradient(to bottom right,#FFB6C1,#d88591,#e37383); 
-    background-size:100%;
-    height:100%;
-    background-attachment:fixed;
+body {
+    background: linear-gradient(to bottom right, #FFB6C1, #d88591, #e37383);
+    background-size: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
 }
 
 /* Nav Bar CSS */
 
-
 /* Header CSS */
-
-
 
 /* Section CSS */
 
-
-
 /* About Section CSS */
-#top{
-    height:300px;
-    background:linear-gradient(to bottom right,#cf27f5, #ff61ba,#ff6038,#ffa04d); 
-    background-size:100%;
-    height:100%;
-    background-attachment:fixed;
+
+#top {
+    height: 300px;
+    background: linear-gradient(to bottom right, #cf27f5, #ff61ba, #ff6038, #ffa04d);
+    background-size: 100%;
+    height: 100%;
+    background-attachment: fixed;
+
+}
+
+h3 {
+    text-align: center;
     
 }
-#picture{
-    border-radius:100px;
-    height:200px;
-    width:200px;
-    margin:auto;
+
+#picture {
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
 }
-a{
-    color:black;
+
+a {
+    color: black;
 }
 
 /* Portfolio Item CSS */
-.project{
-    background-color:#f282ba;
-    height:75px;
-    
+
+.project {
+    background-color: #f282ba;
+    height: 75px;
+
 }
 
 
 
 /* Footer CSS */
 
-
-
 /* Button CSS */
-
-
